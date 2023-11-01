@@ -4,7 +4,7 @@ Tecnologia da Informação (Em Formação)👨‍💻
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bone-TI&show_icons=true&theme=tokyonight)
 ## Sobre Mim 👍
-Estou em busca de oportunidades para aplicar meu conhecimento e adquirirexperiência no mercado de trabalho. Tenho habilidades em informática e estou conhecendo diferentes linguagens de programação. Sou proativo, dedicado e estou sempre prontopara aprender e me adaptado a novos conhecimentos.
+Estou em busca de oportunidades para aplicar meu conhecimento e adquirir experiência no mercado de trabalho. Tenho habilidades em informática e estou conhecendo diferentes linguagens de programação. Sou proativo, dedicado e estou sempre pronto para aprender e me adaptado a novos conhecimentos.
 ## Objetivos;
 - Aprender e aprimorar minhas habilidades em desenvolvimento de software.
 - Explorar áreas como segurança cibernética, análise de dados e inteligência artificial.
