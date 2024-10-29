@@ -80,6 +80,3 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/BONE-TI/BONE-TI/output/snake.svg" alt="Snake animation" />
-
-###
