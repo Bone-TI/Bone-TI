@@ -13,7 +13,6 @@
 <h3 align="left">Sobre Mim;</h3>
 
 ###
-
 <p align="left">Tecnologia da Informação (Em Formação)👨‍💻<br>Estou em busca de oportunidades para aplicar meu conhecimento e adquirir experiência no mercado de trabalho. Tenho habilidades em informática e estou conhecendo diferentes linguagens de programação. Sou proativo, dedicado e estou sempre pronto para aprender e me adaptado a novos conhecimentos.</p>
 
 ###
@@ -21,7 +20,6 @@
 <h3 align="left">Objetivos;</h3>
 
 ###
-
 <p align="left">Desejo me dedicar ao aprimoramento contínuo na área de desenvolvimento de software, com foco em aprofundar meus conhecimentos em linguagens de programação, frameworks e metodologias ágeis. Paralelamente, busco explorar áreas emergentes como segurança cibernética, análise de dados e inteligência artificial, visando desenvolver soluções inovadoras e robustas. Para complementar minha formação, pretendo contribuir ativamente em projetos de código aberto e participar da comunidade tecnológica, promovendo o compartilhamento de conhecimento e a colaboração. A longo prazo, meu objetivo é obter um diploma ou certificação em TI que valide minhas habilidades e me permita alcançar novas oportunidades de crescimento profissional.</p>
 
 ###
